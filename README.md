@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Doreads Frontend](https://github.com/luisc68/doreads-frontend)
 
-- 🌱 I’m currently learning **Cypress**
-
 - 🔭 I’m currently working on [Doreads Backend](https://github.com/luisc68/doreads-backend)
+
+- 🌱 I’m currently learning **Cypress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/luisc68](https://github.com/luisc68)
 
